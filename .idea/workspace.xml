@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcba5471-3f7e-47b7-a459-491348e747a6" name="Changes" comment="" />
+    <list default="true" id="fcba5471-3f7e-47b7-a459-491348e747a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/2DGP-Drill6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2DGP-Drill6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
